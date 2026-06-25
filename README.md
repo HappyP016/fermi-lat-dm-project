@@ -1,8 +1,8 @@
 # Fermi-LAT Dark Matter Limits in Dwarf Spheroidal Galaxies
 
-**BSc Honours Dissertation Project — Silver Oak University (2026)**  
+**BSc Honours Project — Silver Oak University (2026)**  
 **Author:** Happy Patil  
-**Supervisor:** [Your supervisor's name]
+**Supervisor:** Dr. Devansh Desai, Dr. Hiren Jagani, Prof. Vikrant Baxi
 
 ## Overview
 This project reproduces and extends published Fermi-LAT dark matter annihilation 
